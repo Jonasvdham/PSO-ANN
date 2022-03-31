@@ -9,5 +9,4 @@ To use MNIST download:
 [The MNIST training-set](https://www.python-course.eu/data/mnist/mnist_train.csv)  
 [The MNIST test-set](https://www.python-course.eu/data/mnist/mnist_test.csv)  
 
-Put them in the directory and run `prep_MNIST_data.py` to create the numpy binaries which are used in the model.  
-Any further questions can be directed to [Jonasvdham@gmail.com](mailto:Jonasvdham@gmail.com)  
+Put them in the directory and run `prep_MNIST_data.py` to create the numpy binaries which are used in the model.
